@@ -1,0 +1,3 @@
+[submodule "anchor-escrow-with-litesvm"]
+	path = anchor-escrow-with-litesvm
+	url = https://github.com/denimcodes/anchor-escrow-with-litesvm.git
