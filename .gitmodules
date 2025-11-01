@@ -7,3 +7,6 @@
 [submodule "vault-whitelist"]
 	path = vault-whitelist
 	url = https://github.com/denimcodes/vault-whitelist.git
+[submodule "magicblock-er"]
+	path = magicblock-er
+	url = https://github.com/denimcodes/magicblock-er
